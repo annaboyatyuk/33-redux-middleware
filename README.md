@@ -56,3 +56,23 @@ const validateCard = store => next => action => {
 
 export default validateCard;
 ```
+
+
+<!-- 
+## Links
+* PR - 
+* Travis - 
+
+## Configuration
+
+npm i to install dependencies
+##### to use the app
+* enter a category and budget 
+* add expenses
+* to edit info about category or expense, double click on the price
+* to delete a category or expense, click the X next to that category or expense -->
+
+
+
+
+
