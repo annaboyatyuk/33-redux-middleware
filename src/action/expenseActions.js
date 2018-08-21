@@ -8,7 +8,7 @@ export const expenseCreate = expense => {
   return {
     type: 'EXPENSE_CREATE',
     payload: expense,
-    meta: {delay: 1000},
+    meta: {delay: 500},
   };
 };
 
