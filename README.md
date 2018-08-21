@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.com/annaboyatyuk/33-redux-middleware.svg?branch=master)](https://travis-ci.com/annaboyatyuk/33-redux-middleware)
 
 
 ![cf](http://i.imgur.com/7v5ASc8.png) 33: Budget Tracker
@@ -7,8 +7,8 @@
 
 
 ## Links
-* PR - 
-* Travis - 
+* PR - https://github.com/annaboyatyuk/33-redux-middleware/pull/1
+* Travis - https://travis-ci.com/annaboyatyuk/33-redux-middleware/builds
 
 ## Configuration
 
