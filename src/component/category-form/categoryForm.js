@@ -46,7 +46,7 @@ class CategoryForm extends React.Component {
 
         <label >BUDGET</label>
 
-        <input required type="number" min='1' name='budget' onChange={this.handleChange} value={this.state.budget}/>
+        <input required type="number" name='budget' onChange={this.handleChange} value={this.state.budget}/>
 
         <input className='submitButton' type="submit"  value={this.props.buttonText}/>
 
